@@ -1,1 +1,1 @@
-Print('Hello, fantastic world!')
+Print('Hello, gorgeous world!')
