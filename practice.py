@@ -1,2 +1,2 @@
-Print('Hello, big big world!')
+Print('Hello, small world!')
 
